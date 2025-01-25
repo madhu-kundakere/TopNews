@@ -38,3 +38,4 @@ git clone https://github.com/madhu-kundakere/TopNews.git
 - -- News
 - ----- Configs
 - ----- Views
+|<imng width=400 scr=https://github.com/user-attachments/assets/c1de6e96-7a5e-47dc-9e71-3f0e99c39df1> | <imng width=400 src=https://github.com/user-attachments/assets/29567623-3989-4c5b-8c46-77604aa01fc8> |
